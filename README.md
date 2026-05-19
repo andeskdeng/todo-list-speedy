@@ -1,6 +1,6 @@
 # Todo List Speedy ✅
 
-A lightweight web-based task management application built with JavaScript, HTML, and CSS.
+A web-based task management application
 
 ## Project Overview
 
