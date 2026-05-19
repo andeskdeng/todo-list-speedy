@@ -1,34 +1,32 @@
-ould add this README.md:
-
 # Todo List Speedy ✅
 
-A lightweight task management application designed to help users organize daily tasks quickly and efficiently.
+A lightweight web-based task management application built with JavaScript, HTML, and CSS.
 
 ## Project Overview
 
-Todo List Speedy is a productivity application that allows users to create, manage, and track tasks through a simple interface.
+Todo List Speedy helps users organize daily tasks through a simple and fast interface.
 
 This project was built to practice:
 
-- User interface development
-- Data handling
-- Event-driven programming
-- Object-oriented design
-- Software organization
+- JavaScript programming
+- Frontend development
+- DOM manipulation
+- Event handling
+- User interface design
 
 ## Features
 
 ✅ Add tasks  
 ✅ Delete tasks  
 ✅ Mark tasks as completed  
-✅ Task management interface  
-✅ Fast and simple workflow  
+✅ Simple task management interface  
+✅ Fast and easy workflow  
 
 ## Technologies Used
 
-- Python
-- GUI development
-- Object-oriented programming
+- JavaScript
+- HTML
+- CSS
 
 ## Installation
 
@@ -39,25 +37,25 @@ git clone https://github.com/andeskdeng/todo-list-speedy.git
 cd todo-list-speedy
 ```
 
-Install dependencies:
+Open:
 
 ```bash
-pip install -r requirements.txt
+index.html
 ```
 
-Run application:
+Or launch with:
 
 ```bash
-python main.py
+start index.html
 ```
 
 ## Future Improvements
 
-- Task categories
 - Due dates
-- Priority levels
+- Categories
 - Dark mode
-- Data persistence
+- Priority levels
+- Local storage support
 
 ## Author
 
